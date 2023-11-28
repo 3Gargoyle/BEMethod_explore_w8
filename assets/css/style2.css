@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    background-color: white;
+    font-size: 20px;
+  }
+  
+  .row {
+    display: flex;
+    align-items: stretch;
+    align-content: center;
+  }
+  
+  h1 {
+    font-size: 60px;
+  }
+  
+  .btn-primary {
+    background-color: rgb(82, 34, 208);
+    border-radius: 100px;
+    height: 38px;
+    width: 115px;
+  }
+
+  .card__basket {
+    margin: 50px;
+    text-align: center;
+    align-items: last baseline;
+  }
+  
+.card__basket__card-body___btn {
+    height: 84px;
+    width: 270px;
+    font-size: 35px;
+    font-weight: 700;
+    padding-top: 15px;
+    text-decoration: none;
+}
+
+.card__basket__card-body___btn__btn-primary_img {
+  width: 42px;
+  height: 29px;
+  padding-left: 10px;
+}
+
+.nav-link__link-secondary {
+    color: rgba(82, 34, 208, 1);
+    font-size: 20px;
+    text-decoration: none;
+    padding-right: 20px;
+    padding-bottom: 50px;
+}
